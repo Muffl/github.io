@@ -1,1 +1,1 @@
-# Mein Leiblingskünstler
+# Mein Lieblingskünstler
