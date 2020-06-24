@@ -9,3 +9,5 @@ Kitaro ist ein japanischer Syntesizermusiker.
 * Er hat sich vom Bauernjungen hochgearbeitet
 * Gewann schon mehrere internationale Musikpreise
 * Lebt in Nordkalifornien
+
+> Meine Musik ist nicht Rhythm oder Blues, aber es fuehlt sich an wie Soul.
