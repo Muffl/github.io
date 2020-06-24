@@ -12,4 +12,5 @@ Kitaro ist ein japanischer Syntesizermusiker.
 
 Ein Zitat von Kitaro zu siner Musik:
 
-> Meine Musik ist nicht Rhythm and Blues, aber es ‚fühlt‘ sich an wie Soul
+> Meine Musik ist nicht Rhythm and Blues, 
+> aber es fühlt sich an wie Soul
